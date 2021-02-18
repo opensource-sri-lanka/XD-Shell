@@ -20,7 +20,7 @@ _Important:Make sure you have wsl installed on windows and open the environemt b
 
 ## Made by - Dinuda Yaggahavita
 
-<a>https://github.com/Dinuda</a>
+<a>https://github.com/Dinuda-Yaggahavita</a>
 
 👆👆
 
